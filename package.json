@@ -12,12 +12,6 @@
   "browser": {
     "index.js": "lib/index.web.js"
   },
-  "files": [
-    "lib/*"
-  ],
-  "directories": {
-    "lib": "lib"
-  },
   "engines": {
     "node": ">=14"
   },
